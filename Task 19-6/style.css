@@ -1,0 +1,11 @@
+.imag{
+    position: absolute;
+    width: 200px;
+    height: 350px;
+    top: 0;
+    right: 0;
+    border: 1px dotted black;
+    background-color: white;
+    margin-left:-200px;
+    background-repeat: repeat-y;
+}
